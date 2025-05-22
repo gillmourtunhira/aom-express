@@ -1,5 +1,4 @@
 # aom-express
-e-shop platform
 =======
 ## About AOM
 
